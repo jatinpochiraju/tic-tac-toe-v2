@@ -22,8 +22,3 @@ Supports **local multiplayer** and a **challenging CPU opponent** powered by an 
   - `S` → Swap players  
 
 ---
-
-## 📂 Project Structure
-```bash
-tic-tac-toe-v2/
-│── index.html   # Main game file (HTML, CSS, JS combined)
