@@ -1,18 +1,29 @@
 # 🎮 Tic Tac Toe v2
 
-An advanced **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
-It features both **two-player mode** and a **Vs Computer mode** with an optimal AI that never loses.  
+# 🎮 Tic Tac Toe v2 
 
-## 🚀 Features
-- ✅ Modern and responsive UI  
-- ✅ Two game modes:  
-  - **2 Players** (play locally on the same device)  
-  - **Vs Computer** (AI plays optimally)  
-- ✅ Score tracking (X Wins, O Wins, Draws)  
-- ✅ Swap X/O roles anytime  
-- ✅ Reset button (keeps scores intact)  
-- ✅ Visual highlights for win/loss/draw states  
-- ✅ Keyboard support:  
+A modern, responsive, and feature-rich implementation of **Tic Tac Toe** built with pure **HTML, CSS, and JavaScript**.  
+Supports **local multiplayer** and a **challenging CPU opponent** powered by an optimal strategy.  
+
+---
+
+## ✨ Features
+- 🎨 **Modern UI** with responsive design  
+- 👫 **Game Modes**:  
+  - Local **2 Players**  
+  - **Vs Computer** (unbeatable AI)  
+- 📊 **Scoreboard** tracking (X wins, O wins, Draws)  
+- 🔄 **Swap roles (X / O)** anytime  
+- ♻️ **Reset game** (keeps scores intact)  
+- 🌟 **Visual highlights** for win, lose, and draw states  
+- ⌨️ **Keyboard shortcuts**:  
   - `1–9` → Place move  
-  - `R` → Reset game  
+  - `R` → Reset  
   - `S` → Swap players  
+
+---
+
+## 📂 Project Structure
+```bash
+tic-tac-toe-v2/
+│── index.html   # Main game file (HTML, CSS, JS combined)
